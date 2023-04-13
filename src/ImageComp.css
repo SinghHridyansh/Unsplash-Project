@@ -1,0 +1,28 @@
+.pictures {
+  transition: 0.1s ease-in-out;
+
+  margin-bottom: 12px;
+
+  /* margin: 3vh 3vh; */
+  margin-left: 1.5vh;
+  margin-right: 1.5vh;
+  position: relative;
+  text-align: left;
+  color: white;
+
+  /* padding: 1vh; */
+}
+p {
+  font-weight: 600;
+}
+.images {
+  width: 100%;
+}
+.info {
+  position: absolute;
+  top: 8px;
+  left: 25px;
+}
+.info p {
+  font-size: 15px;
+}
